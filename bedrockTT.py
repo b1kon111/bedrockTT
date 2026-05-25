@@ -18,7 +18,7 @@ except Exception:
     aiohttp = None
 
 
-DEFAULT_BIGJPG_API_KEY = 'PASTE_KEY_HERE'
+DEFAULT_BIGJPG_API_KEY = '459f99a6b6194585afcd4f1a425b324e'
 
 
 @loader.tds
